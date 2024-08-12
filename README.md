@@ -1,5 +1,8 @@
 # Movie Search App
 
+You can view a live demo of the project by visiting [this link](https://dskuzm.github.io/movie-search-app/).
+
+
 A simple movie search application built with Next.js and React Bootstrap. This application allows users to search for movies using the OMDb API and displays the results in a user-friendly interface.
 
 ## Features
